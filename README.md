@@ -1,3 +1,12 @@
+드론 여러대를 묶어 군집드론을 할 수 있는 튜토리얼입니다.
+드론 여러대를 한 대의 공유기에 묶고, ip 를 연결해 군집드론 실행을 할 수 있습니다.
+
+해당 튜토리얼 영상을 유튜브에 업로드하였습니다.
+
+https://youtu.be/bVAwej_nK4Y
+
+
+
 ***Tello Swarm Python Program***
 
 0. This program is only available for the Tello EDU, which is SDK 2.0 and above.
